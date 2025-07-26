@@ -25,3 +25,14 @@ To demonstrate the results, run the main.rb in the directory `/acme_widget_co`
     cd /acme_widget_co
 
     ruby main.rb
+
+
+You also have the option to change the price, delivery and discount rules or add products in the appropriate files:
+-
+
+    products.json
+
+    delivery_rules.json
+
+    offer_rules.json
+
